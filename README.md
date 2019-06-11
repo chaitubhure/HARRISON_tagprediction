@@ -28,19 +28,19 @@ After installing the above mentioned dependencies, run the following commands in
 !python3 evaluate.py
 ```
 
-### High level view of the model and working
+### High Level View of the Model and Working
 
 ![Overview of the model](https://github.com/chaitubhure/HARRISON_tagprediction/blob/master/Overview%20of%20the%20model.png)
 
 ### Authors
 
-* **Chaitanya Bhure** [Chaitanya Bhure](https://github.com/chaitubhure)
+* [Chaitanya Bhure](https://github.com/chaitubhure)
 
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/chaitubhure/HARRISON_tagprediction/blob/master/LICENSE) file for details
 
-## Acknowledgments
+### Acknowledgments
 
 * The dataset
 ```
