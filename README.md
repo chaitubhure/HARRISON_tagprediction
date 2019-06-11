@@ -4,6 +4,10 @@ Personalized Image Tagging is a relevant hashtag predictor for images. Now, why 
 
 ![Picture of a sunset](https://github.com/chaitubhure/HARRISON_tagprediction/blob/master/sunset.jpg)
 
+Multi-label classification | User-based tags
+-------------------------- | ---------------
+sunset, beach, sea | sunset, beach, **vacation, holiday, romantic, bliss, vacationgoals**
+
 ### Technology and platfroms
 
 This project makes use of the [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true) platform with a free access to GPU for the image processing tasks. It took 3 hours to train the complete model on Colab and the other technologies used in this project are as follows:
