@@ -2,6 +2,8 @@
 
 Personalized Image Tagging is a relevant hashtag predictor for images. Now, why Personalized Image Tagging? Because, whenever a user uploads a photo on the social media, the tags provided by the user, oftentimes have very little or no relation to the actual features  of an image. That is why multi-label image classification fails when applied to images uploaded on the social media. This project uses the HARRISON dataset, which stands for HAshtag Recommendation for Real world Images in SOcial Networks. This is a very realistic dataset composed of 57,383 images from instagram and an average of 4.5 hashtags per image.
 
+![Picture of a sunset](https://github.com/chaitubhure/HARRISON_tagprediction/blob/master/sunset.jpg)
+
 ### Technology and platfroms
 
 This project makes use of the [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true) platform with a free access to GPU for the image processing tasks. It took 3 hours to train the complete model on Colab and the other technologies used in this project are as follows:
