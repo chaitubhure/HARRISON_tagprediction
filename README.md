@@ -8,8 +8,8 @@ Personalized Image Tagging is a relevant hashtag predictor for images. Now, why 
 
 This project makes use of the [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true) platform with a free access to GPU for the image processing tasks. It took 3 hours to train the complete model on Colab and the other technologies used in this project are as follows:
 
-* [Tensorflow](https://www.tensorflow.org/) - The most popular, deep learning framework
-* [Slim](https://www.tensorflow.org/api_docs/python/tf/contrib/slim) - A high level representation of Tensorflow
+* [Tensorflow](https://www.tensorflow.org/) - Most popular, deep learning framework
+* [Slim](https://www.tensorflow.org/api_docs/python/tf/contrib/slim) - High level representation of Tensorflow
 * [Pandas](https://pandas.pydata.org/) - Python library for performing operations on data
 
 
